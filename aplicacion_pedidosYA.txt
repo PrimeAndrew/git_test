@@ -1,1 +1,2 @@
 [crear restaurantes]
+[crear platos de comida]
