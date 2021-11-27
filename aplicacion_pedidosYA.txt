@@ -1,2 +1,2 @@
 [crear restaurantes]
-[crear platos de comida]
+[crear platos de comida][crear platos con descuento]
