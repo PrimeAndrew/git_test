@@ -1,4 +1,4 @@
 [crear restaurantes]
 [integracion moto]
 [crear platos de comida][crear platos con descuento]
-[crear menu]
+[crear menu] [modificar colores]
